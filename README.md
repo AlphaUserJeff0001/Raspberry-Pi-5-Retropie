@@ -2,7 +2,7 @@ I created Flashable Image for Raspberry pi 5
 
 Credits for Retropie for making this possible
 
-Download it from Packages
+Download it from : 
 
 Report any issues on my Github pade or Discord Server
 
